@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Estilo de vida",
+    "url": "https://images.pexels.com/photos/7512060/pexels-photo-7512060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description":
+      "Sabemos que tu moto es tu estilo de vida, por eso cuidamos de ti dantote el mejor servicio y la mejor calidad.",
+  },
+  {
+    "id": 2,
+    "title": "Experiencias",
+    "url": "https://images.pexels.com/photos/5542036/pexels-photo-5542036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description":
+      "Porque una moto te lleva a donde quieras, a disfrutar tu tiempo en las cosas que mas quieres y a vivir experiencias que te haran vibrar.",
+  },
+  {
+    "id": 3,
+    "title": "Disfruta",
+    "url": "https://images.pexels.com/photos/7564495/pexels-photo-7564495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description":
+      "El viaje no debe ser incomodo. Por más largo que sea el viaje, nuestras motos te haran disfrutar del camino, ya que para nosotros la comodidad no es un lujo es una necesidad",
+  },
+  {
+    "id": 4,
+    "title": "Pasíon",
+    "url": "https://images.pexels.com/photos/5078778/pexels-photo-5078778.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description":
+      "Más que un hobby es una pasión, es algo que nos lleva a exigirnos más, a creer que todo es posible cuando estamos abordo de ella.",
+  }
+]

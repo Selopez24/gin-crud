@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "marca": "Chevrolet",
+    "Ref": "Chevrolet Camaro 2018",
+    "url": "https://images.pexels.com/photos/7696681/pexels-photo-7696681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  },
+  {
+    "id": 2,
+    "marca": "Ford",
+    "Ref": "Ford focus 2018",
+    "url": "https://images.pexels.com/photos/1007410/pexels-photo-1007410.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  },
+  {
+    "id": 3,
+    "marca": "Audi",
+    "Ref": "Audi RS6",
+    "url": "https://images.pexels.com/photos/1638459/pexels-photo-1638459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  },
+  {
+    "id": 4,
+    "marca": "BMW",
+    "Ref": "BMW Sedán",
+    "url": "https://images.pexels.com/photos/100650/pexels-photo-100650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  }
+]
